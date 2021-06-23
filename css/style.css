@@ -95,7 +95,7 @@ a,a:hover{
   
 }
 .background_image{
-    background: url(/image/finix (4).jpg);
+    background: url(../image/background.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
